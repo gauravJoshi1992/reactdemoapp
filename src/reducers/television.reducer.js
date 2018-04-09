@@ -6,11 +6,11 @@ export default function () {
 		{
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -23,17 +23,17 @@ export default function () {
 			"color": "Black",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 25000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -46,17 +46,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -69,17 +69,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -92,17 +92,17 @@ export default function () {
 			"color": "Black",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -115,17 +115,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -138,17 +138,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 75000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -161,17 +161,17 @@ export default function () {
 			"color": "Black",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -184,17 +184,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -207,17 +207,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 60000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -230,17 +230,17 @@ export default function () {
 			"color": "Black",
 			"model": "Samsung32J5500AK",
 			"brand": "Samsung",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 65000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -253,17 +253,17 @@ export default function () {
 			"color": "Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -276,17 +276,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -299,17 +299,17 @@ export default function () {
 			"color": "Black",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 50000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -322,17 +322,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -345,17 +345,17 @@ export default function () {
 			"color": "Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 75000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -368,17 +368,17 @@ export default function () {
 			"color": "Black",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -391,17 +391,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -414,17 +414,17 @@ export default function () {
 			"color": "Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 60000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -437,17 +437,17 @@ export default function () {
 			"color": "Black",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 65000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -460,17 +460,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "LG32J5500AK",
 			"brand": "LG",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -483,17 +483,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -506,17 +506,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 65000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -529,17 +529,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -552,17 +552,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 60000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -575,17 +575,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -598,17 +598,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 70000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -621,17 +621,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -644,17 +644,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -667,17 +667,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -690,17 +690,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sony32J5500AK",
 			"brand": "Sony",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -713,17 +713,17 @@ export default function () {
 			"color": "Black",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -736,17 +736,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 70000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -759,17 +759,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -782,17 +782,17 @@ export default function () {
 			"color": "Black",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 35000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -805,17 +805,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -828,17 +828,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -851,17 +851,17 @@ export default function () {
 			"color": "Black",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 65000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -874,17 +874,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -897,17 +897,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -920,17 +920,17 @@ export default function () {
 			"color": "Black",
 			"model": "Pana32J5500AK",
 			"brand": "Panasonic",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 50000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -943,17 +943,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 25000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -966,17 +966,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -989,17 +989,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 65000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1012,17 +1012,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 25000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1035,17 +1035,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 60000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1058,17 +1058,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 35000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1081,17 +1081,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 25000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1104,17 +1104,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 75000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1127,17 +1127,17 @@ export default function () {
 			"color": "Black",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1150,17 +1150,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Sansui32J5500AK",
 			"brand": "Sansui",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1173,17 +1173,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 60000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1196,17 +1196,17 @@ export default function () {
 			"color": "Black",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1219,17 +1219,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1242,17 +1242,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 75000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1265,17 +1265,17 @@ export default function () {
 			"color": "Black",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1288,17 +1288,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1311,17 +1311,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1334,17 +1334,17 @@ export default function () {
 			"color": "Black",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1357,17 +1357,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 70000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1380,17 +1380,17 @@ export default function () {
 			"color": "Gray",
 			"model": "Micro32J5500AK",
 			"brand": "Micromax",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1403,17 +1403,17 @@ export default function () {
 			"color": "Black",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1426,17 +1426,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1449,17 +1449,17 @@ export default function () {
 			"color": "Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Android",
 			"type": "LED TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 45000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1472,17 +1472,17 @@ export default function () {
 			"color": "Black",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Smart",
 			"type": "Flat Screen",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 20000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1495,17 +1495,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "84 inch (213 cm)",
+			"screen size": "84 inch (213 cm)",
 			"price": 70000,
-			"screen Resolution": "3840 x 2160 (4K)",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "3840 x 2160 (4K)",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1518,17 +1518,17 @@ export default function () {
 			"color": "Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 200,
-			"Power saving mode": true,
+			"power consumption": 200,
+			"power saving mode": true,
 			"speakers": 4,
 		}, {
 			"category": "Smart",
 			"type": "LED TV",
-			"screen Size": "32 inch (80 cm)",
+			"screen size": "32 inch (80 cm)",
 			"price": 30000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1541,17 +1541,17 @@ export default function () {
 			"color": "Black",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 90,
-			"Power saving mode": true,
+			"power consumption": 90,
+			"power saving mode": true,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "Flat Screen",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 50000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1564,17 +1564,17 @@ export default function () {
 			"color": "Dark Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}, {
 			"category": "Smart",
 			"type": "LCD TV",
-			"screen Size": "43 inch (109.22 cm)",
+			"screen size": "43 inch (109.22 cm)",
 			"price": 40000,
-			"screen Resolution": "1920 x 1080",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1920 x 1080",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA"
 			],
 			"connectivity": {
@@ -1587,17 +1587,17 @@ export default function () {
 			"color": "Gray",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 120,
-			"Power saving mode": false,
+			"power consumption": 120,
+			"power saving mode": false,
 			"speakers": 2,
 		}, {
 			"category": "Android",
 			"type": "LCD TV",
-			"screen Size": "55 inch (139 cm)",
+			"screen size": "55 inch (139 cm)",
 			"price": 55000,
-			"screen Resolution": "1366 x 768",
-			"aspect Ratio": "16:9",
-			"supported Audio Formats": [
+			"screen resolution": "1366 x 768",
+			"aspect ratio": "16:9",
+			"supported audio formats": [
 				"MP3", "AAC", "WMA", "PCM"
 			],
 			"connectivity": {
@@ -1610,8 +1610,8 @@ export default function () {
 			"color": "Black",
 			"model": "PHILIPS32J55AK",
 			"brand": "Philips",
-			"Power Consmption": 150,
-			"Power saving mode": true,
+			"power consumption": 150,
+			"power saving mode": true,
 			"speakers": 3,
 		}
 	];
