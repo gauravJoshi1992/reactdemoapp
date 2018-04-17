@@ -1,7 +1,7 @@
-export const UserSelected = function (User) {
+export const UserSelected = function (Main) {
 
 	return {
 		type: 'USER_SELECTED',
-		payload: User
+		payload: Main
 	}
 };
